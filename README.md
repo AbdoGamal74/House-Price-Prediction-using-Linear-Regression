@@ -46,7 +46,9 @@ The model explains approximately 65% of the variance in house prices.
 - Correlation Heatmap
 - Price Distribution Histogram
 - Scatter Plots (Area, Bedrooms, Bathrooms, Stories vs Price)
+Here is the data exploration summary:
 
+![Data Exploration](visualization.png)
 ---
 
 ## 🚀 How to Run the Project
