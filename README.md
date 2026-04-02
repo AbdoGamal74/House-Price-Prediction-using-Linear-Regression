@@ -31,7 +31,6 @@ The project uses the `Housing.csv` dataset containing real estate data with the 
 - `parking`: Number of parking spaces
 
 **Source:** Kaggle / [(https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)]  
-**Preprocessing:** Missing values handled, categorical features encoded, outliers detected and treated using IQR method.
 ---
 
 ## 🔍 Project Workflow
