@@ -18,6 +18,22 @@ This project aims to predict house prices using a Linear Regression model. It in
 
 ---
 
+## Dataset
+
+The project uses the `Housing.csv` dataset containing real estate data with the following features:
+
+- `price`: Price of the house (target variable)
+- `area`: Area in square feet
+- `bedrooms`: Number of bedrooms
+- `bathrooms`: Number of bathrooms
+- `stories`: Number of floors
+- `mainroad`, `guestroom`, `basement`, `hotwaterheating`, `airconditioning`, `prefarea`, `furnishingstatus`: Categorical features representing house amenities
+- `parking`: Number of parking spaces
+
+**Source:** Kaggle / [(https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)]  
+**Preprocessing:** Missing values handled, categorical features encoded, outliers detected and treated using IQR method.
+---
+
 ## 🔍 Project Workflow
 1. Data Loading from CSV file
 2. Data Preprocessing and Cleaning
